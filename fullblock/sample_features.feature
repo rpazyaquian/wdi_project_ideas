@@ -1,4 +1,4 @@
-Feature: Block all instances of a users messages
+Feature: Block all instances of a user's messages
 
   As a user of Twitter
   I want none of the tweets of the target user

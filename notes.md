@@ -14,3 +14,7 @@
 * An "object simulator" to understand how OOP and object composition work.
   * e.g., Metz's bicycle example.
   * Maybe a more advanced version of the character generator, too?
+* A procedural generator of some sort. What kind of procedural generator!?
+  * A complex name generator, like [this](https://github.com/velartrill/procgen/blob/master/namegen.c)?
+* Remake CHIP-8 emulator, or maybe I should save that for when we do Javascript...
+* Some sort of basic game. Like Hangman, or Codebreaker. Maybe chess? But how would I display it?
